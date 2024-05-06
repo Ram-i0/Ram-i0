@@ -1,8 +1,8 @@
-### 🐻 Ram-i0
+### 
 
 ![Header](./github-header-image.png)
 
-**'(Creator of My Thoughts student/gamer/a lil lost but here nonetheless)'**
+**(Student/Gamer/a lil lost but here nonetheless)**
 
 I've always been interested in creating things and understanding how they go from 0 to 100 and what their purpose is. This started with a pencil and paper and stick figures to robots and video games. Im pretty new to staying conssitent with my coding journey since I'm always working at factories to pay off my student debt but I know what I like and I like building games and learning new langugages and skills. Fun fact: I like lime ice cream from any mexican ice cream place and watching anime.
 
@@ -18,6 +18,5 @@ I've always been interested in creating things and understanding how they go fro
 
 ✨ Stats 
 
-![Ram-i0's Github Stats] (anuraghazra/github-readme-stats
-DenverCoder1/github-readme-streak-stats)
+![Ram-i0's Github Stats] (hhtps://github-readme-stats.vercel.app/api?username=Ram-i0&show_icons=true&theme=radical)
 #
