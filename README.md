@@ -19,4 +19,5 @@ I've always been interested in creating things and understanding how they go fro
 ✨ Stats 
 
 ![Ram-i0's Github Stats] (hhtps://github-readme-stats.vercel.app/api?username=Ram-i0&show_icons=true&theme=radical)
+![ram-i0's Stats](https://github-readme-stats.vercel.app/api?username=ram-i0&theme=gotham&show_icons=true&hide_border=true&count_private=false)
 #
