@@ -11,10 +11,11 @@ I've always been interested in creating things and understanding how they go fro
 <img align="left" alt="Java" width="30px" style="paddding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="30px" style="paddding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 
- ... to be continued.
+ ... 
 
 
-#✨ Stats 
+#
+✨ Stats 
 
 ![ram-i0's Stats](https://github-readme-stats.vercel.app/api?username=ram-i0&theme=gotham&show_icons=true&hide_border=true&count_private=false)
 #
